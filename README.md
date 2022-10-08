@@ -6,6 +6,7 @@
 
 ## Disclaimer
 
+The winrar password is **eierflattern**
 This program is for educational purposes only.<br />
 How you use this program is your responsibility.<br />
 <br />
