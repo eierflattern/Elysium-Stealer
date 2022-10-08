@@ -60,7 +60,7 @@ I will not be held accountable for any illegal activities.
 </div>
 
 - Is it free?<br />
-Yes, the program is 100% free and open source.
+Yes, the program is 100% free.
 
 - Antivirus reports program as malicious!<br />
 Program contains the stub file which is necessary to make stealer work, it's all open source so if you are extremly scared check it by yourself.
