@@ -79,7 +79,7 @@ Program contains the stub file which is necessary to make stealer work, it's all
 <div align="center">
 
 ## Credits
-Made by Sint0 and Saido [Nyxon](https://github.com/Nyxonn)
+Made by Sint0 and Saido 
 <br />
   
 <br/>
