@@ -79,7 +79,7 @@ Program contains the stub file which is necessary to make stealer work, it's all
 <div align="center">
 
 ## Credits
-Made by Sint0 and Saido 
+Made by **eierflattern**
 <br />
   
 <br/>
