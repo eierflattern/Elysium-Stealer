@@ -4,9 +4,11 @@
   <img src="https://i.postimg.cc/MKVNYckX/Untitled.png" width="500" height="200" />
 </a>
 
-## Disclaimer
+## Info
 
 The winrar password is **eierflattern.**<br />
+
+## Disclaimer
 
 This program is for educational purposes only.<br />
 How you use this program is your responsibility.<br />
